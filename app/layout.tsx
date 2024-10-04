@@ -1,7 +1,7 @@
 // app/layout.tsx
 import './globals.css'; // Import your global styles
 import { ReactNode } from 'react';
-import Sidebar from 'C:/Users/gcalb/OneDrive/galboum/My_Projects/CryptoToken/PotLockCoin/potlocktoken-dapp/potlocktoken-dapp/app/components/Sidebar'; // Adjust the path as necessary
+import Sidebar from './components/Sidebar'; // Adjust the path as necessary
 
 export const metadata = {
   title: 'PotLockToken',
